@@ -5,7 +5,11 @@ This project creates a classifier model that predicts the quality rating of red 
 The ML model was created based on a dataset uploaded to [UCI ML Learning Repository](https://archive.ics.uci.edu/dataset/186/wine+quality) of red wines. 
 
 <img width="181" height="656" alt="image" src="https://github.com/user-attachments/assets/6095da9f-7fcb-4e61-81e2-b47e188591ba"/>
-<br> Here, the y-value (target) is the quality, and the rest of the variables are x-values (inputs). This model uses all inputs listed on UCI apart from color as it only predicts the quality of red wine.
+<br/> Here, the y-value (target) is the quality, and the rest of the variables are x-values (inputs). This model uses all inputs listed on UCI apart from color as it only predicts the quality of red wine.
+
+### Citing Source
+<br/> 
+Cortez, P., Cerdeira, A., Almeida, F., Matos, T., & Reis, J. (2009). Wine Quality [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C56S3T.
 
 ## The ML Model
 ### Linear Regression
