@@ -1,5 +1,5 @@
 # Red-Wine-Quality-Predictor
-This project creates a classifier model that predicts the quality rating of red wine from 5-7 based on 11 inputs including fixed acidity, chlorides and pH. 
+This project creates a linear regression model that predicts the quality rating of red wine from 5-7 based on 11 inputs including fixed acidity, chlorides and pH. 
 
 ## Dataset
 The ML model was created based on a dataset uploaded to [UCI ML Learning Repository](https://archive.ics.uci.edu/dataset/186/wine+quality) of red wines. 
